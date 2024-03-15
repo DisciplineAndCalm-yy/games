@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",    
+    "pages/selectCard/selectCard",
+    "pages/resultPage/resultPage"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#546",
+    "navigationBarTitleText": "随机塔罗牌",
+    "navigationBarTextStyle":"white"
+  }
+}
