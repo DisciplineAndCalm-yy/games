@@ -1,0 +1,29 @@
+{
+  "description": "消消乐",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "condition": false
+  },
+  "compileType": "game",
+  "libVersion": "3.3.5",
+  "appid": "wx6c12f30fdd101d41",
+  "projectname": "%E6%B6%88%E9%99%A4%E6%8D%95%E9%B1%BC",
+  "condition": {},
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "auto",
+    "tabSize": 2
+  }
+}
